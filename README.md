@@ -14,7 +14,7 @@ Game to beat the clock by typing random words
 ## Project Preview 
 
 #### Click Below Link <br><br>
-[Click View Demo](https://mian-ali.github.io/SpeedTyping-master-Game/) <br>
+[Click View Project Demo](https://mian-ali.github.io/SpeedTyping-master-Game/) <br>
 
 
 Project Broswer URL

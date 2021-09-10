@@ -11,13 +11,13 @@ Game to beat the clock by typing random words
 - Add certain amount of time after word is typed based on difficulty
 - Store difficulty setting in local storage
 
-## Project Preview 
+## `Project Preview` 
 
 #### Click Below Link <br><br>
-[Click View Project Demo](https://mian-ali.github.io/SpeedTyping-master-Game/) <br>
+[`Click View Project Demo`](https://mian-ali.github.io/SpeedTyping-master-Game/) <br>
 
 
-Project Broswer URL
+## `Project Broswer URL`
 
 https://mian-ali.github.io/SpeedTyping-master-Game/
 
